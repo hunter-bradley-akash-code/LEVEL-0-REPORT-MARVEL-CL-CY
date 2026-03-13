@@ -74,9 +74,9 @@ In this task I created a Tinkercad account and explored the platform to understa
 I first studied the example circuits and then simulated a simple circuit using an ultrasonic sensor to measure the distance between the sensor and an obstacle. 
 I also created a radar system using an ultrasonic sensor and a servo motor where the servo rotates the sensor to scan a wider area and detect objects within range. 
 This task helped me understand sensor simulation and basic hardware interfacing using Tinkercad.
-![tinkercad]()
+![tinkercad](task9.jpeg)
 
-![tinkercad]()
+![tinkercad](tinkercad_3.jpeg)
 
-![tinkercad]()
+[video link](tinkercad(video).mp4)
 - - -
