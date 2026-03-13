@@ -54,8 +54,8 @@ In this task I created a personal portfolio website to showcase my skills and pr
 The website includes sections like Home, About Me, Interests, Projects and Contact. 
 It was built using HTML, CSS and JavaScript.This task helped me understand how to design and organize a personal website to present my work.
 ## Images
-![portfolio]([portfolio_1.jpg)
+![portfolio](protfolio_1.jpg)
 
-![portfolio]([portfolio_2.jpg)
-
-![portfolio](portfolio_3.jpg)
+![portfolio](portfolio2.jpg)
+click [here]() to view the website
+- - -
