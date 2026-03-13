@@ -107,3 +107,15 @@ This task helped me understand ESP32 WiFi capabilities IoT-based device control,
 
 ![esp](esp32_8.jpg)
 - - -
+# TASK 12: Soldering Prerequisites
+
+In this task I became familiar with basic soldering equipment such as the soldering iron, solder wire, rosin flux, holder etc...
+I practiced by desoldering an LED and soldering it back again. 
+This helped me understand proper soldering techniques, heat control and safe handling of electronic components.
+
+## Images
+
+![solder](solder2.jpg)
+
+![solder](solder6.jpg)
+- - -
