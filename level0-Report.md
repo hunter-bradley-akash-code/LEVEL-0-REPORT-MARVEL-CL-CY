@@ -31,10 +31,20 @@ After fixing the issue I committed the changes to a branch and created a pull re
 
 # TASK 4: Get familiar with the command line on ubuntu
 - - - 
-In this task, I learned how to work with files using basic Linux terminal commands. I navigated to a directory using commands like `cd` and checked the files using `ls`. Then I created and edited text files (`AK.txt` and `AK2.txt`) using the `vim` editor and added some text to them. After saving the files I used the `cat` command to display their contents. I also used `cat AK.txt AK2.txt` to view the contents of both files together. This task helped me understand basic file creation, editing and viewing operations in the Linux terminal.
+In this task I learned how to work with files using basic Linux terminal commands. I navigated to a directory using commands like `cd` and checked the files using `ls`. Then I created and edited text files (`AK.txt` and `AK2.txt`) using the `vim` editor and added some text to them. After saving the files I used the `cat` command to display their contents. I also used `cat AK.txt AK2.txt` to view the contents of both files together. This task helped me understand basic file creation, editing and viewing operations in the Linux terminal.
 
 ## Images
-![linux](ubuntu_3)
+![linux](ubuntu_3.jpeg)
 
-![linux](ubuntu_4)
+![linux](ubuntu_4.jpeg)
 - - -
+# Task 6 : The Matrix Puzzle
+- - -
+In this task, I used Python with NumPy and Matplotlib to decode an encoded array. The array was loaded from a `.npy` file and 
+its shape and total elements were checked. Then the array was reshaped into a 100 × 100 matrix and rotated to get the correct orientation.
+Finally the decoded image was displayed.
+## Images
+![matrix](matrix_2.jpg)
+
+![matrix](matrix_3.jpg)
+- - - 
