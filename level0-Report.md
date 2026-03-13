@@ -11,5 +11,7 @@ JavaScript uses the `fetch()` method to send a request to the OpenWeatherMap end
 * wind speed 
 ## Images
 ![API](API_2.jpg)
+- - - 
 I also experimented with building a **Simple Virus Scanner** using the **VirusTotal API** where a user can enter a URL and the app submits it report. 
-![API](API_S.jpg)
+
+![API](API_s.jpg)
