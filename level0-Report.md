@@ -48,3 +48,14 @@ Finally the decoded image was displayed.
 
 ![matrix](matrix_3.jpg)
 - - - 
+# TASK 7: Create a Portfolio Webpage
+- - -
+In this task I created a personal portfolio website to showcase my skills and projects. 
+The website includes sections like Home, About Me, Interests, Projects and Contact. 
+It was built using HTML, CSS and JavaScript.This task helped me understand how to design and organize a personal website to present my work.
+## Images
+![portfolio]([portfolio_1.jpg)
+
+![portfolio]([portfolio_2.jpg)
+
+![portfolio](portfolio_3.jpg)
