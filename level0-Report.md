@@ -92,5 +92,18 @@ This task helped me understand PWM-based motor speed control and interfacing mot
 ## Images
 ![dc](dcmotor_1.jpeg)
 
-[video link]()
+[video link](dcmotor(video).mp4)
+- - -
+# TASK 11: LED Toggle Using ESP32
+
+In this task I controlled LEDs using an ESP32 microcontroller through a web interface. 
+The ESP32 was connected to two LEDs on a breadboard using resistors. After connecting the ESP32 to a WiFi network a simple web server was created that allowed the LEDs to be turned ON or OFF from a mobile phone browser. 
+When the user presses the button on the webpage the ESP32 receives the request and toggles the LED state accordingly. 
+This task helped me understand ESP32 WiFi capabilities IoT-based device control, and web server communication with hardware.
+
+## Images
+
+![esp](esp32_11.jpg)
+
+![esp](esp32_8.jpg)
 - - -
