@@ -61,11 +61,22 @@ click [here]() to view the website
 - - -
 # TASK 8: Writing Resource Article using Markdown
 - - - 
-
 In this task I created a resource article using Markdown about the MQ135 Gas Sensor. 
 The article explains the sensor’s introduction, detectable gases, technical specifications, construction, working principle, pin configuration, Arduino interfacing, applications, advantages and limitations. 
 Markdown formatting was used to organize the content with headings, lists, tables and code blocks. 
 This task helped me learn how to write structured technical documentation and present hardware information clearly using Markdown.
 
 [report](https://github.com/hunter-bradley-akash-code/task8-marvel.git)
+- - -
+# Task 9: Tinkercad
+
+In this task I created a Tinkercad account and explored the platform to understand basic circuit simulations. 
+I first studied the example circuits and then simulated a simple circuit using an ultrasonic sensor to measure the distance between the sensor and an obstacle. 
+I also created a radar system using an ultrasonic sensor and a servo motor where the servo rotates the sensor to scan a wider area and detect objects within range. 
+This task helped me understand sensor simulation and basic hardware interfacing using Tinkercad.
+![tinkercad]()
+
+![tinkercad]()
+
+![tinkercad]()
 - - -
