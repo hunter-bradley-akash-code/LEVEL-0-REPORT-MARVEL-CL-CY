@@ -59,3 +59,9 @@ It was built using HTML, CSS and JavaScript.This task helped me understand how t
 ![portfolio](portfolio2.jpg)
 click [here]() to view the website
 - - -
+# TASK 8: Writing Resource Article using Markdown
+- - - 
+
+
+
+- - -
