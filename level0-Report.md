@@ -74,9 +74,23 @@ In this task I created a Tinkercad account and explored the platform to understa
 I first studied the example circuits and then simulated a simple circuit using an ultrasonic sensor to measure the distance between the sensor and an obstacle. 
 I also created a radar system using an ultrasonic sensor and a servo motor where the servo rotates the sensor to scan a wider area and detect objects within range. 
 This task helped me understand sensor simulation and basic hardware interfacing using Tinkercad.
+ ## Images
+ 
 ![tinkercad](task9.jpeg)
 
 ![tinkercad](tinkercad_3.jpeg)
 
 [video link](tinkercad(video).mp4)
+- - -
+# TASK 10: Speed Control of DC Motor
+
+In this task I controlled the speed of a DC motor using an Arduino Uno and a motor driver module. 
+The motor driver was connected between the Arduino and the DC motor to safely control the motor. 
+PWM signals from the Arduino were used to vary the motor speed by changing the duty cycle. 
+Different speed values were programmed in the code to increase and decrease the motor speed at intervals. 
+This task helped me understand PWM-based motor speed control and interfacing motors with Arduino.
+## Images
+![dc](dcmotor_1.jpeg)
+
+[video link]()
 - - -
