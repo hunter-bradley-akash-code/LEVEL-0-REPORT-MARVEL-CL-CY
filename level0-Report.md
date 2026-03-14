@@ -178,12 +178,10 @@ Users can add resources by specifying the title, type and author and the added r
 
 ## Images
 
-![web app]()
+![web app](reslib2.jpg)
 
-![web app]()
+![web app](reslib3.jpg)
 
-![web app]()
+![web app](reslib4.jpg)
 
-![web app]()
-
-click ![here] for repo
+click [here]() for repo
