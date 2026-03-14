@@ -158,7 +158,7 @@ click [here](https://github.com/hunter-bradley-akash-code/Task-17-Introduction-t
 - - -
 # TASK 18: Sad Servers – Troubleshooting on Linux
 - - -
-In this task, I solved the "Command Line Murders" scenario on the Sad Servers platform. Using Linux commands such as `ls`, `cd`, `cat`, `grep`, `head` and `tail`
+In this task I solved the "Command Line Murders" scenario on the Sad Servers platform. Using Linux commands such as `ls`, `cd`, `cat`, `grep`, `head` and `tail`
 I analyzed files and gathered clues to identify the suspect. This task helped me practice Linux command-line navigation, file searching, and troubleshooting 
 skills.
 
@@ -169,3 +169,21 @@ skills.
 ![sad_servers](sad_servers_3.jpg)
 
 - - -
+# Task 19: Make a Web app
+- - -
+
+In this task I developed a simple web application using Node.js and the Express framework. 
+The application allows users to register and log in and provides a dashboard to manage learning resources. 
+Users can add resources by specifying the title, type and author and the added resources are displayed as cards on the dashboard with an option to delete them.
+
+## Images
+
+![web app]()
+
+![web app]()
+
+![web app]()
+
+![web app]()
+
+click ![here] for repo
