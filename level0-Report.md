@@ -132,12 +132,10 @@ K̅ to generate the alarm output. This task helped me understand logic simplific
 - - -
 # TASK 15: Active Participation
 - - -
-# Task 15: Active Participation
-
 I actively participated in various technical events and activities. I took part in events such as IMPETUS 25.0, CodeFury 8.0 Hackathon and Strategy Sprint 2.0  
 organized by different technical societies at UVCE. These events helped me improve my problem-solving skills, teamwork and exposure to real-world technical 
 challenges. Through these participations I gained valuable experience and learning beyond regular coursework.
 ## Images
 
-![certificate](AK.jpg)
+![certificate](ak1.jpg)
 - - -
