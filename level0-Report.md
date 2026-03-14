@@ -102,7 +102,7 @@ This task helped me understand PWM-based motor speed control and interfacing mot
 ## Images
 ![dc](dcmotor_1.jpeg)
 
-[video link](dcmotor(video).mp4)
+![dc moltor](dcmotor.gif.gif)
 - - -
 # TASK 11: LED Toggle Using ESP32
 
