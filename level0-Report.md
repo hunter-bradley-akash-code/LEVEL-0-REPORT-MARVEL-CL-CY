@@ -1,3 +1,13 @@
+# TASK 1: 3D Printing
+- - -
+In this task I learned the basics of how a 3D printer works. I understood the concept of STL files which represent the 3D model of an object used for printing. 
+
+I also learned how slicing software like Ultimaker Cura or Creality Slicer converts an STL file into G-code instructions for the printer.
+
+I explored important printer settings such as bed temperature, nozzle temperature and infill density which affect print quality and strength.
+
+I also studied different 3D printing technologies like FDM, SLA and SLS. This task helped me understand the overall workflow of preparing a model for 3D printing.
+- - - 
 # TASK 2: API
 - - -
 An API (Application Programming Interface) is basically a set of rules that lets different software applications talk to each other. 
@@ -186,3 +196,4 @@ Users can add resources by specifying the title, type and author and the added r
 ![web app](reslib4.jpg)
 
 click [here](https://github.com/hunter-bradley-akash-code/Task-19-Make-a-Web-app) for repo
+- - -
