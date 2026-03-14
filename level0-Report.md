@@ -139,3 +139,12 @@ challenges. Through these participations I gained valuable experience and learni
 
 ![certificate](ak1.jpg)
 - - -
+# Task 16: Datasheets Report Writing
+
+In this task I studied the datasheet of the L293D motor driver IC and wrote a brief report about its working and features. The L293D is a dual H-bridge motor 
+driver used to control the direction and speed of DC motors using microcontrollers. It acts as an interface between the microcontroller and the motor and also 
+supports PWM-based speed control. This task helped me understand how to read datasheets and document the working of electronic components.
+
+click [here](https://github.com/hunter-bradley-akash-code/TASK-16-Datasheets-report-writing/blob/main/L293D.md) for repo
+- - -
+# Task 17: Introduction to VR
