@@ -145,6 +145,27 @@ In this task I studied the datasheet of the L293D motor driver IC and wrote a br
 driver used to control the direction and speed of DC motors using microcontrollers. It acts as an interface between the microcontroller and the motor and also 
 supports PWM-based speed control. This task helped me understand how to read datasheets and document the working of electronic components.
 
-click [here](https://github.com/hunter-bradley-akash-code/TASK-16-Datasheets-report-writing/blob/main/L293D.md) for repo
+click [here](https://github.com/hunter-bradley-akash-code/TASK-16-Datasheets-report-writing/blob/main/L293D.md) for report
 - - -
 # Task 17: Introduction to VR
+- - -
+Through this task I understood that Virtual Reality is not limited to gaming but is a powerful tool that can transform industries such as education, healthcare, and manufacturing.
+The key difference between VR and AR.
+I also got the opportunity to experience VR present in the MARVEL.
+This practical exposure made the learning more meaningful.
+
+click [here](https://github.com/hunter-bradley-akash-code/Task-17-Introduction-to-VR/blob/main/VR.md) for report.
+- - -
+# TASK 18: Sad Servers – Troubleshooting on Linux
+- - -
+In this task, I solved the "Command Line Murders" scenario on the Sad Servers platform. Using Linux commands such as `ls`, `cd`, `cat`, `grep`, `head` and `tail`
+I analyzed files and gathered clues to identify the suspect. This task helped me practice Linux command-line navigation, file searching, and troubleshooting 
+skills.
+
+## Images
+
+![sad_servers](sad_servers_2.jpg)
+
+![sad_servers](sad_servers_3.jpg)
+
+- - -
