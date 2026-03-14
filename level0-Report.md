@@ -129,5 +129,5 @@ K̅ to generate the alarm output. This task helped me understand logic simplific
 ## Images
 ![K-map](kmap_1.jpg)
 
-![K-map](KMAP_.png)
+![K-map](KMAP.png)
 - - -
