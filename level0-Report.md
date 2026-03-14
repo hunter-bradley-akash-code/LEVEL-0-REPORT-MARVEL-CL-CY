@@ -129,6 +129,14 @@ This helped me understand proper soldering techniques, heat control and safe han
 
 ![solder](solder6.jpg)
 - - -
+# Task 13: 555 Astable Multivibrator (60% Duty Cycle)
+
+For this task the objective was to design a 555 timer IC in astable mode with a duty cycle of around 60% build the circuit on a breadboard and observe the output 
+waveform using a Digital Storage Oscilloscope (DSO). An astable multivibrator continuously generates a square wave signal by repeatedly charging and discharging a
+capacitor through resistors.
+I went through the provided resources and understood how the 555 timer works in astable mode how the resistor and capacitor values determine the frequency and duty cycle and how the output waveform can be observed on an oscilloscope. 
+Although I did not get the chance to physically build and test the circuit the resources helped me understand the concept and the working of the 555 timer as an oscillator.
+- - -
 # TASK 14: Karnaugh Maps and Deriving the logic circuit
 - - -
 In this task I learned how to simplify Boolean expressions using Karnaugh Maps (K-Maps). 
