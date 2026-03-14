@@ -119,3 +119,15 @@ This helped me understand proper soldering techniques, heat control and safe han
 
 ![solder](solder6.jpg)
 - - -
+# TASK 14: Karnaugh Maps and Deriving the logic circuit
+- - -
+In this task I learned how to simplify Boolean expressions using Karnaugh Maps (K-Maps). 
+A truth table was first created using the variables D (Door), K (Key) and A (Alarm). Based on the truth table a Karnaugh Map was drawn to simplify the Boolean expression.
+The simplified expression obtained was A = D · K̅. Using this expression the corresponding logic circuit was designed using a NOT gate for K and an AND gate with input D and 
+K̅ to generate the alarm output. This task helped me understand logic simplification and how to implement the simplified expression using digital logic gates.
+
+## Images
+![K-map](kmap_1.jpg)
+
+![K-map](KMAP_.png)
+- - -
