@@ -57,7 +57,7 @@ It was built using HTML, CSS and JavaScript.This task helped me understand how t
 ![portfolio](protfolio_1.jpg)
 
 ![portfolio](portfolio2.jpg)
-click [here]() to view the website
+click [here](https://hunter-bradley-akash-code.github.io/TASK-7-Create-a-Portfolio-Webpage/) to view the website
 - - -
 # TASK 8: Writing Resource Article using Markdown
 - - - 
