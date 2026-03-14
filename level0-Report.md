@@ -90,7 +90,7 @@ This task helped me understand sensor simulation and basic hardware interfacing 
 
 ![tinkercad](tinkercad_3.jpeg)
 
-[video link](tinkercad(video).mp4)
+![video link](task9.gif)
 - - -
 # TASK 10: Speed Control of DC Motor
 
