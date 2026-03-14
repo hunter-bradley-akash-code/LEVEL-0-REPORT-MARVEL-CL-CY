@@ -164,7 +164,7 @@ skills.
 
 ## Images
 
-![sad_servers](sad_servers_2.jpg)
+![sad_servers](sad_servers_1.jpg)
 
 ![sad_servers](sad_servers_3.jpg)
 
